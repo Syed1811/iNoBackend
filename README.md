@@ -2,7 +2,9 @@
 
 Welcome to the iNoteBook backend repository. This Node.js and Express.js backend serves as the server for the iNoteBook application, handling authentication, note storage, and more.
 
-## Getting Started Visit [iNoteBook](https://cloudinotebook.netlify.app/) and start taking secure notes today! 
+## Getting Started Visit 
+
+[iNoteBook](https://cloudinotebook.netlify.app/) and start taking secure notes today! 
 
 ## Technologies Used
 
