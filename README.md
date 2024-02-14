@@ -6,6 +6,11 @@ Welcome to the iNoteBook backend repository. This Node.js and Express.js backend
 
 [iNoteBook](https://cloudinotebook.netlify.app/) and start taking secure notes today! 
 
+## iNoteBook Frontend
+
+For the frontend codebase of iNoteBook, please visit the [iNoteBook Frontend GitHub Repository](https://github.com/Syed1811/iNoteBookFron).
+
+
 ## Technologies Used
 
 - **Node.js:** Server-side JavaScript runtime.
