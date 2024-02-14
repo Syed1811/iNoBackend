@@ -4,21 +4,15 @@ Welcome to the iNoteBook backend repository. This Node.js and Express.js backend
 
 ## Technologies Used
 
-- **Node.js:** A JavaScript runtime built on the V8 JavaScript engine that allows server-side execution of JavaScript code.
+- **Node.js:** Server-side JavaScript runtime.
+- **Express.js:** Web application framework for Node.js.
+- **MongoDB:** Database for storing notes.
+- **bcryptjs:** Password hashing for user authentication.
+- **cors:** Middleware for enabling Cross-Origin Resource Sharing.
+- **dotenv:** Environment variable management.
+- **express-validator:** Middleware for input validation.
+- **jsonwebtoken:** Token-based authentication for secure access.
 
-- **Express.js:** A web application framework for Node.js that simplifies the process of building robust and scalable web applications and APIs.
-
-- **MongoDB:** A NoSQL database used for storing and managing notes. MongoDB is known for its flexibility and scalability, making it an excellent choice for applications with varying data structures.
-
-- **bcryptjs:** A library for hashing passwords securely. iNoteBook uses bcryptjs to store user passwords securely by converting them into irreversible hash values.
-
-- **cors:** Cross-Origin Resource Sharing middleware that enables secure communication between the frontend and backend, allowing the frontend to make requests to the backend from a different origin.
-
-- **dotenv:** A zero-dependency module used to load environment variables from a .env file into the process environment. iNoteBook utilizes dotenv to manage sensitive information such as port numbers and database URLs.
-
-- **express-validator:** Middleware for Express.js that provides validation and sanitization of request data. It helps ensure that the data received by the backend is accurate and secure.
-
-- **jsonwebtoken:** A library for implementing JSON Web Tokens (JWT) for user authentication. iNoteBook uses JWTs to secure user access and verify the authenticity of requests.
 
 ## Endpoints
 
