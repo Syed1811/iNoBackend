@@ -15,7 +15,7 @@ console.log("Port:", port);
 
 connectToMongo()
   .then(() => {
-    app.use(cors({ origin: "https://inooteboook.netlify.app" }));
+    app.use(cors({ origin: "https://cloudinotebook.netlify.app" }));
     app.use(express.json());
     app.use(express.static(path.join(__dirname, "../build")));
 
